@@ -1,0 +1,65 @@
+{
+  "name": "nopecha",
+  "version": "1.0.8",
+  "description": "NopeCHA Node.js Library",
+  "main": "nopecha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NopeCHALLC/nopecha-nodejs.git"
+  },
+  "keywords": [
+    "nopecha",
+    "solver",
+    "challenger",
+    "bypass",
+    "captcha",
+    "hcaptcha",
+    "hcaptcha-enterprise",
+    "recaptcha",
+    "recaptcha-v2",
+    "recaptcha-v3",
+    "recaptcha-enterprise",
+    "funcaptcha",
+    "awscaptcha",
+    "textcaptcha",
+    "hcaptcha-solver",
+    "hcaptcha-enterprise-solver",
+    "recaptcha-solver",
+    "recaptcha-v2-solver",
+    "recaptcha-v3-solver",
+    "recaptcha-enterprise-solver",
+    "funcaptcha-solver",
+    "awscaptcha-solver",
+    "textcaptcha-solver",
+    "hcaptcha-challenger",
+    "hcaptcha-enterprise-challenger",
+    "recaptcha-challenger",
+    "recaptcha-v2-challenger",
+    "recaptcha-v3-challenger",
+    "recaptcha-enterprise-challenger",
+    "funcaptcha-challenger",
+    "awscaptcha-challenger",
+    "textcaptcha-challenger",
+    "hcaptcha-bypass",
+    "hcaptcha-enterprise-bypass",
+    "recaptcha-bypass",
+    "recaptcha-v2-bypass",
+    "recaptcha-v3-bypass",
+    "recaptcha-enterprise-bypass",
+    "funcaptcha-bypass",
+    "awscaptcha-bypass",
+    "textcaptcha-bypass"
+  ],
+  "author": "nopecha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NopeCHALLC/nopecha-nodejs/issues"
+  },
+  "homepage": "https://nopecha.com",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
